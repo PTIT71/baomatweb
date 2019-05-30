@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="DBSM:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/DBSM_war</output-path>
+    <root id="archive" name="DBSM_war.war">
+      <element id="artifact" artifact-name="DBSM:war exploded" />
+    </root>
+  </artifact>
+</component>

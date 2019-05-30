@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="webapp-runner-7.0.22.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/webapp-runner-7.0.22.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
